@@ -51,8 +51,8 @@
 
     // FRONT SIDE STYLING
     &__picture {
-        background-size: cover;
         height: 23rem;
+        background-size: cover;
         background-blend-mode: screen;
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
         clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
